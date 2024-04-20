@@ -1,6 +1,6 @@
 ## Hello! ![](https://komarev.com/ghpvc/?username=mrusse)
 
-<img src="https://i.imgur.com/PmLBRlN.jpeg" width="300px" align="right">
+<img src="https://i.imgur.com/PmLBRlN.jpeg" width="200px" align="right">
 
 Links:
 
